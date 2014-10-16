@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.testreg2</groupId>
   <artifactId>testreg2</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>testreg2</name>
   <description>testreg2</description>
   <scm> 
     <developerConnection>scm:git:https://github.com/nirmal070125/test-maven-release-plugin</developerConnection> 
-    <tag>testreg2-1.0.3</tag>
+    <tag>1.0.2</tag>
   </scm> 
   
   <properties>
