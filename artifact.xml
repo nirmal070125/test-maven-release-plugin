@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><artifacts/>
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="nirmal" groupId="com.example.testreg2.resource" version="1.0.0" type="registry/resource" serverRole="GovernanceRegistry">
+        <item>
+            <file>nirmal.xml</file>
+            <path>/_system/governance/sequences</path>
+            <mediaType>application/vnd.wso2.sequence</mediaType>
+        </item>
+    </artifact>
+</artifacts>
