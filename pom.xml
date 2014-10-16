@@ -9,7 +9,7 @@
   <description>testreg2</description>
   <scm> 
     <developerConnection>scm:git:https://github.com/nirmal070125/test-maven-release-plugin</developerConnection> 
-    <tag>HEAD</tag>
+    <tag>1.0.2</tag>
   </scm> 
   
   <properties>
@@ -100,7 +100,7 @@
         <configuration> 
           <preparationGoals>clean</preparationGoals> 
           <completionGoals>org.wso2.maven:wso2-release-pre-prepare-plugin:1.0.0:post-prepare</completionGoals> 
-          <tagBase>https://svn.wso2.com/wso2/svn/people/susankha/tags</tagBase> 
+          <tagBase>https://github.com/nirmal070125/test-maven-release-plugin/tags</tagBase> 
         </configuration> 
       </plugin> 
     </plugins>
